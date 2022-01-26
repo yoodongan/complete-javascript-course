@@ -13,13 +13,13 @@ Test data:
 § Data 2: Marks weights 95 kg and is 1.88 m tall. John weights 85 kg and is 1.76 m tall
 */
 
-const markHeight = 1.69;
-const markMass = 78;
-const johnHeight = 1.95;
-const johnMass= 92;
+// const markHeight = 1.69;
+// const markMass = 78;
+// const johnHeight = 1.95;
+// const johnMass= 92;
 
-const markBmi =  markMass / markHeight ** 2 ;
-const johnBmi =  johnMass / johnHeight ** 2 ;
-console.log(markBmi, johnBmi);
-const markHigherBMI = markBmi > johnBmi;
-console.log(markHigherBMI);
+// const markBmi =  markMass / markHeight ** 2 ;
+// const johnBmi =  johnMass / johnHeight ** 2 ;
+// console.log(markBmi, johnBmi);
+// const markHigherBMI = markBmi > johnBmi;
+// console.log(markHigherBMI);
